@@ -1,3 +1,17 @@
+This project aims to develop a custom software application for Grazioso Salvare, an international rescue-animal training company. The goal of this project is to build a full-stack application that processes data from local animal shelters near the Austin, Texas area. The software will allow users to view and filter dogs based on animal type which is more suitable for search-and-rescue training. The users will filter the dogs based on features including age and breed. By implementing CRUD functionality in the application, users can manage shelter data effectively. The application will consist of a database backend and a user-friendly web-based dashboard to allow effective navigation. 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
 # CS340
 How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 I think that the CRUD Pyhton module is extremely versatile. I order to effectively adapt the module to PROJECT 2 I made sure that there was vast comments indicating what every method was for. If I needed to revisit the CRUD Python Module it was easily readable .
